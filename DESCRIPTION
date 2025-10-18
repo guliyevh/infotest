@@ -2,7 +2,11 @@ Package: infotest
 Type: Package
 Title: Information Matrix Test for Regression Models
 Version: 0.1.0
-Author: Hasraddin Guliyev <hasradding@unec.edu.az>
+Authors@R: 
+    c(person(given = "Hasraddin",
+             family = "Guliyev",
+             email = "hasraddin@unec.edu.az",
+             role = c("aut", "cre")))
 Maintainer: Hasraddin Guliyev <hasradding@unec.edu.az>
 Description: infotest runs an information matrix test for a regression and splits it into three components—tests for heteroskedasticity, skewness, and kurtosis (Cameron & Trivedi, 1990)
 License: GPL-3
