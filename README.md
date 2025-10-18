@@ -11,7 +11,8 @@ The goal of infotest is to information matrix test (Cameron & Trivedi, 1990) for
 You can install the development version of infotest like so:
 
 ``` r
-install.packages("infotest")
+install.packages("pak")
+pak::pkg_install("guliyevh/infotest")
 ```
 
 ## Example
