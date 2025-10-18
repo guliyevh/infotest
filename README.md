@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of infotest is to information matrix test (Cameron & Trivedi, 1990) for a regression and splits it into three components—tests for heteroskedasticity, skewness, and kurtosis.
+The goal of infotest is to Cameron & Trivedi (1990) information matrix test for regression models and splits it into three components—tests for heteroskedasticity, skewness, and kurtosis.
 
 ## Installation
 
